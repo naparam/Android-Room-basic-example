@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room Example</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="item_name">Event Name</string>
+    <string name="person_name">Event Details </string>
+    <string name="set_date">Set Date</string>
+</resources>
